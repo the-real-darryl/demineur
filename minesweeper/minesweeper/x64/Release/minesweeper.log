@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Case.cpp
+  mine_sweeper.cpp
+c:\users\ddaar\desktop\minesweeper\minesweeper\mine_sweeper.cpp(68): warning C4244: '=': conversion from 'long double' to 'unsigned int', possible loss of data
+  mine_sweeper_multijoueurs.cpp
+  Generating code
+  185 of 190 functions (97.4%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  minesweeper.vcxproj -> C:\Users\ddaar\Desktop\minesweeper\x64\Release\minesweeper.exe
